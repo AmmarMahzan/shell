@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Coworker notes
+=======
+Notes from a coworker.
+>>>>>>> coworker-changes
