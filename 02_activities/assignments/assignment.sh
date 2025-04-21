@@ -23,7 +23,7 @@ unzip -q rawdata.zip
 # 1. Create a directory named data
 mkdir -p data/raw
 mv rawdata/* data/raw/
-rmdir rawdata   
+
 
 # 2. Move the ./rawdata directory to ./data/raw
 echo "Contents of data/raw:"
