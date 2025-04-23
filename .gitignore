@@ -17,3 +17,11 @@ package.json
 !02_activities/assignments/github_actions.png
 !02_activities/assignments/assignment_instructions.md
 
+# Un-ignore the data folder and all its contents
+!02_activities/assignments/data/
+!02_activities/assignments/data/**
+
+# Un-ignore coworker_notes.txt for Part 2
+!02_activities/assignments/coworker_notes.txt
+
+
