@@ -1,6 +1,8 @@
 #!/bin/bash  
 set -e  
 set -x  
+
+ 
   
 ############################################  
 # DSI CONSULTING INC. Project setup script #  
